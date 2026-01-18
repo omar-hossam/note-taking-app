@@ -1,4 +1,11 @@
-# Notes App 
+# Notes App DEV MD
+
+This file contains the development roadmap of the app.
+
+## Roadmap
+
+**CLI** -> **GUI** -> **Web App**
+**SQLite** -> **PostgreSQL**
 
 ## Todos
 

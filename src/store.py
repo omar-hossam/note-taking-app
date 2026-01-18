@@ -3,3 +3,4 @@ app_options = {
         "2": "New note 📝",
         "3": "Remove a note 🗑️"
 }
+preferred_editor = "nano"
